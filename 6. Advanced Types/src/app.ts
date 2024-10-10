@@ -141,7 +141,7 @@
 // const uInput = document.getElementById('user-input')! as HTMLInputElement;
 // uInput.value = 'Hi There!'
 
-interface ErrorContainer {
-    [prop: string]: string 
-}
+// interface ErrorContainer {
+//     [prop: string]: string 
+// }
 
